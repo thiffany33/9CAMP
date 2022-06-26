@@ -1,0 +1,30 @@
+.nav {
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+}
+
+.body {
+    background-color: #FAFAFA
+}
+
+.cointainer {
+    border-bottom: 1px solid #EAEAEA;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h1 {
+    font-size: 48px;
+    color: #AA4653;
+    font-weight: bold;
+    margin: 30px;
+}
+
+ss .p {
+    color: #000000;
+    margin: 30px;
+    font-size: 22px;
+}
